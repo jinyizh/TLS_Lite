@@ -1,0 +1,11 @@
+Information I used when creating the certificates and keys:
+
+Country code: US
+State: Utah
+Locality: Salt Lake City
+Organization: University of Utah
+Organization unit: School of Computing
+Common Name: Authority / Client / Server
+Email Address: authority@mail.com server@mail.com / client@mail.com
+
+A challenge password: iamclient / iamserver
